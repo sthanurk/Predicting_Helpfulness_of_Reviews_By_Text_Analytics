@@ -4,7 +4,8 @@ __Models Tried for predicting helpfulness:__
 * Support Vector Machine (SVM) Classification
 * Naive Bayes Gaussian Classifier
 
-Interactive Plotly Visualizations can be seen in the html version of this notebook available at : [go.uncc.edu/6156](https://www.go.uncc.edu/6156)
+Interactive Plotly Visualizations can be seen in the html version of this notebook available at : [go.uncc.edu/6156](https://go.uncc.edu/6156)  
+
 __Statistics from the data:__
 * Number of unique products (asin) that had reviews = 63001
 * Number of unique reviewers (reviewerID) who wrote the reviews = 192403
